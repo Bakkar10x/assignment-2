@@ -184,7 +184,29 @@ header{
     margin-top: 10px;
     margin-left: 33px;
  }
+ .experience{
+    background-color: #FF900E;
+    width: 342px;
+    height: 200px;
+    margin-left: 650px;
+    margin-top: -150px;
+    border-radius: 8px;
+    text-align: center;
+ }
+ .experience-title{
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size: 65px;
+    padding-top: 46px;
+ }
+.experience-describtion{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 25px;
+}
  /* love-enjoy end */
+
+
  /* some-facts start  */
  .some-facts{
     font-weight: 700;
