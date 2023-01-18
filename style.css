@@ -286,7 +286,8 @@ header{
 /* commpany-logo */
 .logo{
     display: grid;
-    grid-template-columns: repeat(5,1fr);
+    grid-template-columns: repeat(5,0fr);
+    gap: 155px;
     margin-top: 50px;
     margin-left: 240px;
 }
